@@ -8,8 +8,8 @@ const codingStats = [
   {
     icon: Code2,
     label: "LeetCode",
-    value: "kvz07",
-    link: "https://leetcode.com/u/kvz07/",
+    value: "kaviyadharshinii_",
+    link: "https://leetcode.com/kaviyadharshinii_",
     gradient: "from-yellow-500 to-orange-500",
   },
   {

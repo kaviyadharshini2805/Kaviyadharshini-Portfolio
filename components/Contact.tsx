@@ -39,8 +39,8 @@ const contactInfo = [
   {
     icon: Code2,
     label: "LeetCode",
-    value: "kvz07",
-    link: "https://leetcode.com/u/kvz07/",
+    value: "kaviyadharshinii_",
+    link: "https://leetcode.com/kaviyadharshinii_",
   },
 ];
 
