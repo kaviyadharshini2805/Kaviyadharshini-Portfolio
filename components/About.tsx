@@ -63,7 +63,7 @@ export default function About() {
             className="space-y-6 text-lg text-gray-300 leading-relaxed"
           >
             <p>
-              I'm a final-year Computer Science and Engineering student at
+              I&apos;m a final-year Computer Science and Engineering student at
               <span className="text-white font-semibold">
                 {" "}
                 Rathinam Technical Campus
@@ -79,9 +79,9 @@ export default function About() {
             </p>
 
             <p>
-              Currently, I'm focused on strengthening my problem-solving skills
+              Currently, I&apos;m focused on strengthening my problem-solving skills
               through Data Structures and Algorithms while building practical AI
-              and software engineering projects. I'm actively seeking Software
+              and software engineering projects. I&apos;m actively seeking Software
               Engineering, AI, and Data Science opportunities where I can
               contribute, learn, and grow.
             </p>

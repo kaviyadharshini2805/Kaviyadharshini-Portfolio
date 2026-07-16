@@ -97,8 +97,8 @@ export default function Contact() {
           <div className="w-20 h-1 bg-gradient-to-r from-accent to-secondary mx-auto rounded-full mb-6" />
 
           <p className="text-gray-400 text-lg max-w-2xl mx-auto">
-            I'm currently seeking Software Engineering, AI, and Data Science
-            opportunities. Whether you'd like to discuss a project,
+            I&apos;m currently seeking Software Engineering, AI, and Data Science
+            opportunities. Whether you&apos;d like to discuss a project,
             internship, or full-time role, feel free to reach out.
           </p>
         </motion.div>
